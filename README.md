@@ -1,0 +1,2 @@
+# Multivariate-Regression
+Analysed data set and established a relation between a dependent variable and six independent variables using R. Based on the P value, R-Square value, F-statistic value and the correlation trends, a final model is designed discarding the statistically insignificant variables. The final model produced is a best fit and its residual analysis is done using a Q-Q plot and chi-square test.
